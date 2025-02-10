@@ -6,7 +6,7 @@
 
 main:
   - title: "Research Outputs"
-    url: /researchoutputs/
+    url: #/researchoutputs/
 
   - title: "Research Activities"
     url: /researchactivities/    
