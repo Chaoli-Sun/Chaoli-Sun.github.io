@@ -1,5 +1,38 @@
 <p><h1>Journal Papers</h1></p>
-<h2>2025</h2>
-<div class="wordwrap">[1] Kaili Zhao, Xilu Wang, Chaoli Sun, Yaochu Jin. Efficient Large-scale Expensive Optimization via Surrogate-assisted Sub-problem Selection, IEEE Transactions on Evolutionary Computation, accepted, 2025.</div>
-<div class="wordwrap">[2] 谭瑛, 任新宇, 孙超利, 王思思. 两阶段填充采样的半监督昂贵多目标优化算法, 计算机应用，录用，2025.</div>
-<div class="wordwrap">[3] Zijian Jiang, Chaoli Sun, Xiaotong Liu, Hui Shi, Sisi Wang. A semi-supervised learning technique assisted multi-objective evolutionary algorithm for computationally expensive problems, Complex & Intelligent Systems, 2024.</div>
+<div class="wordwrap">[36] Kaili Zhao, Xilu Wang, Chaoli Sun, Yaochu Jin. Efficient Large-scale Expensive Optimization via Surrogate-assisted Sub-problem Selection, IEEE Transactions on Evolutionary Computation, accepted, 2025.</div>
+<div class="wordwrap">[35] 谭瑛, 任新宇, 孙超利, 王思思. 两阶段填充采样的半监督昂贵多目标优化算法, 计算机应用，录用，2025.</div>
+<div class="wordwrap">[34] Zijian Jiang, Chaoli Sun, Xiaotong Liu, Hui Shi, Sisi Wang. A semi-supervised learning technique assisted multi-objective evolutionary algorithm for computationally expensive problems, Complex & Intelligent Systems, 2024.</div>
+
+<div class="wordwrap">[33] Chaoli Sun, Juan Shen, Xiaohong Zhang, Hui Shi and Yang Wang, Degradation modeling and remaining life prediction of multi-state long-life systems under andom environmental influences, Measurement Science and Technology, 2024, accepted. (https://doi.org/10.1088/1361-6501/ad5610) </div>
+<div class="wordwrap">[32] Chaoli Sun, Xiaojun Wang, Junwei Ma, Gang Xie, A Composition–decomposition Based Federated Learning, Complex & Intelligent Systems, 2023, accepted. (https://doi.org/10.1007/s40747-023-01198-x)</div>
+<div class="wordwrap">[31] 刘晓彤，孙超利，王浩，谢刚，两阶段模型协同搜索的昂贵多目标进化优化，控制理论与应用, 2023, 录用.</div>
+<div class="wordwrap">[30] Shufen Qin, Chaoli Sun, Qiqi Liu, Yaochu Jin, A Performance Indicator Based Infill Criterion for Expensive Multi-/Many-objective Optimization, IEEE Transactions on Evolutionary Computation, 2023, 27(4), 1085-1099. </div>
+<div class="wordwrap">[29] Hao Wang, Chaoli Sun, Gang Xie, Xiao-Zhi Gao, Farooq Akhtar, A performance approximation assisted expensive many-objective evolutionary algorithm, Information Sciences, 2023, 625, 20-35.</div>
+<div class="wordwrap">[28] 张国晨,刘鹏飞,孙超利,一种新环境选择策略的多模态多目标优化算法, 应用科学学报,2022,40(05):739-748.</div>
+<div class="wordwrap">[27] 张国晨,崔钧皓,王浩,孙超利,李春鹏,自适应模型选用辅助的多种群进化算法, 小型微型计算机系统，2022，录用.</div>
+<div class="wordwrap">[26] Hao Wang, Chaoli Sun, Haibo Yu, Xiaobo Li, A decomposition-based many-objective evolutionary algorithm with optional performance indicators, Complex & Intelligent Systems, 2022: 1-20.</div>
+<div class="wordwrap">[25] Mai Sun, Chaoli Sun, Xiaobo Li, Guochen Zhang, Farooq Akhtar, Surrogate Ensemble Assisted large-scale Expensive Optimization with Random Grouping, Information Sciences, 2022, 615, 226-237.</div>
+<div class="wordwrap">[24] 王浩，孙超利，张国晨，基于估值不确定度排序顺序均值采样的昂贵高维多目标进化算法, 控制与决策，2022，录用.</div>
+<div class="wordwrap">[23] Mai Sun, Chaoli Sun, Guochen Zhang, Large-scale Expensive Optimization with a Switching Strategy, Complex System Modeling and Simulation, 2022, 2(3), 253-263.</div>
+<div class="wordwrap">[22] Shufen Qin, Chan Li, Chaoli Sun, Guochen Zhang, Xiaobo Li, Multiple Infill Criteria Assisted Hybrid Evolutionary Optimization for Medium-dimensional Computationally Expensive Problems, Complex & Intelligent Systems, 2022, 8(1), 583-595.</div>
+<div class="wordwrap">[21] 乔刚柱，王瑞，孙超利，基于分解的高维多目标改进进化算法，计算机应用，2021, 41(11), 3097-3103.</div>
+<div class="wordwrap">[20] 孙超利，李贞，金耀初，模型辅助的计算费时进化高维多目标优化，自动化学报，2022, 48(04), 1119-1128. </div>
+<div class="wordwrap">[19] 孙超利，李婵，秦淑芬，张国晨，李晓波，基于不确定度采样准则的费时问题优化算法，控制与决策，2022, 37(06), 1541-1549.</div>
+<div class="wordwrap">[18] 于成龙，付国霞，孙超利，张国晨，全局/局部模型交替优化辅助的差分进化算法，计算机工程，2022, 48(03), 115-123.</div>
+<div class="wordwrap">[17] Shufen Qin, Chaoli Sun, Yaochu Jin, Ying Tan, Jonathan Fieldsend, Large-scale Evolutionary Multi-objective Optimization Assisted by Directed Sampling, IEEE Transactions on Evolutionary Computation, 2021, 25(4), 724-738.</div>
+<div class="wordwrap">[16] Zhihai Ren, Chaoli Sun, Ying Tan, Guochen Zhang, Shufen Qin, A Bi-stage Surrogate-assisted Hybrid Algorithm for Expensive Optimization Problems, C omplex & Intelligent Systems, 2021, 7, 1391-1405.</div>
+<div class="wordwrap">[15] Hao Wang, Chaoli Sun, Guochen Zhang, Jonathan E. Fieldsend, Yaochu Jin, Non-dominated Sorting on Performance Indicators for Evolutionary Many-objective Optimization, Information Sciences, 2021, 551, 23-38.</div>
+<div class="wordwrap">[14] Yi Zhao, Chaoli Sun, Jianchao Zeng, Ying Tan, Guochen Zhang, A Surrogate-ensemble Assisted Expensive Many-objective Optimization, Knowledge-Based Systems, 2021, 211, 106520.</div>
+<div class="wordwrap">[13] Peng Liao, Chaoli Sun, Guochen Zhang, Yaochu Jin, Multi-surrogate Multi-tasking Optimization of Expensive problems, Knowledge-Based Systems, 2020, 205, 106262.</div>
+<div class="wordwrap">[12] Hao Wang, Mengnan Liang, Chaoli Sun, Guochen Zhang, Liping Xie, Multiple-strategy learning particle swarm optimization for large-scale optimization problems, Complex & Intelligent Systems, 2021, 7(1), 1-16.</div>
+<div class="wordwrap">[11] Shufen Qin, Chaoli Sun, Guochen Zhang, Xiaojuan He, Ying Tan, A modified particle swarm optimization based on decomposition with different ideal points for many-objective optimization problems, Complex & Intelligent Systems, 2020, 6(2), 263-274.</div>
+<div class="wordwrap">[10] 田杰，孙超利，谭瑛，曾建潮，基于多点加点准则的代理模型辅助社会学习微粒群算法，控制与决策，2020，35(1)，131-138. </div>
+<div class="wordwrap">[9] Jie Tian, Ying Tan, Jianchao Zeng, Chaoli Sun, Yaochu Jin, Multi-objective Infill Criterion Driven Gaussian Process Assisted Particle Swarm Optimization of High-dimensional Expensive Problems, IEEE Transactions on Evolutionary Computation, 2019, 23(3), 459-472.</div>
+<div class="wordwrap">[8] Haibo Yu, Ying Tan, Jianchao Zeng, Chaoli Sun, A generation-based optimal restart strategy for surrogate-assisted social learning particle swarm optimization, Knowledge-Based Systems, 2019, 163(1), pp. 14-25.</div>
+<div class="wordwrap">[7] Haibo Yu, Ying Tan, Jianchao Zeng, Chaoli Sun, Yaochu Jin, Surrogate-assisted Hierarchical Particle Swarm Optimization, Information Sciences, 2018, 454-455, pp. 59-72.</div>
+<div class="wordwrap">[6] Chaoli Sun, Yaochu Jin, Jinliang Ding, Jianchao Zeng, A fitness approximation assisted competitive swarm optimizer for large scale expensive optimization problems, Memetic Computing, 2018, 10(2), pp. 123-134.</div>
+<div class="wordwrap">[5] Chaoli Sun, Yaochu Jin, Ran Cheng, Jinliang Ding, Jianchao Zeng, Surrogate-assisted Cooperative Swarm Optimization of High-dimensional Expensive Problems, IEEE Transactions on Evolutionary Computation, 2017, 21(4), 644-660.</div>
+<div class="wordwrap">[4] Chaoli Sun, Yaochu Jin, Jianchao Zeng, Yang Yu, A Two-layer Surrogate-assisted Particle Swarm Optimization Algorithm, Soft Computing, 2015, 19(6), pp. 1461-1475.</div>
+<div class="wordwrap">[3] Chaoli Sun, Jianchao Zeng, Jengshyang Pan, Songdong Xue, Yaochu Jin, A New Fitness Estimation Strategy for Particle Swarm Optimization, Information Sciences, 2013, 221, pp. 355-370.</div>
+<div class="wordwrap">[2] Chaoli Sun, Jianchao Zeng, Jengshyang Pan, A Modified Particle Swarm Optimization with Feasibility-based Rules for Mixed-variable Optimization Problems, International Journal of Innovative Computing, Information and Control, 2011, 7(6), 3081-3096.</div>
+<div class="wordwrap">[1] Chaoli Sun, Jianchao Zeng, Jengshyang Pan, An Improved Vector Particle Swarm Optimization for Constrained Optimization Problems, Information Sciences, 2011, 181(6), 1153-1163.</div>
