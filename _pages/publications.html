@@ -5,16 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}"> my Google Scholar profile</a>.</div>
 {% endif %}
-
-***Journal Papers:***
-
-[1]Kaili Zhao, Xilu Wang, Chaoli Sun, Yaochu Jin. Efficient Large-scale Expensive Optimization via Surrogate-assisted Sub-problem Selection, IEEE Transactions on Evolutionary Computation, accepted, 2025.
-
 
 
 {% include base_path %}
@@ -31,6 +24,8 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
+[1]Kaili Zhao, Xilu Wang, Chaoli Sun, Yaochu Jin. Efficient Large-scale Expensive Optimization via Surrogate-assisted Sub-problem Selection, IEEE Transactions on Evolutionary Computation, accepted, 2025.
+
       {% include archive-single.html %}
     {% endfor %}
   {% endfor %}
