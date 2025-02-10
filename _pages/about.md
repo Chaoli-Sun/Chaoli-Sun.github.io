@@ -7,12 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am the professor of School of Computer Science and Technology, Taiyuan University of Science and Technology.
+I received her B.C. and M.S. degrees in Computer Application Technology from Hohai University, Nanjing, Jiangsu, China, and Ph.D. in Mechanical Design and Theory from Taiyuan University of Science and Technology, Taiyuan, Shanxi, China, in 2011. From September 2014 to September 2016, I was a Postdoctoral Research Fellow in Department of Computer science, University of Surrey. Now I am a Professor in the School of Computer Science and Technology, Taiyuan University of Science and Technology. 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My areas of expertise include surrogate-assisted evolutionary optimization, machine learning, and their applications in real-world problems. 
 
-A data-driven personal website
-======
+I am an Associate Editor of the IEEE Transactions on Evolutionary Computation, an Associate Editor of the IEEE Transactions on Artificial Intelligence, an Associate Editor of the Engineering Application of Artificial Intelligence, and an Associate Editor of the Soft Computing Journal. I am also an Editorial Board Member of Complex and Intelligence Systems and an Editorial Board Member of Memetic Computing. 
+
+I serve as the chair of the Intelligent Systems Application Technical Committee of IEEE CIS (2024-), and a member of the Evolutionary Computation Technical Committee of IEEE CIS. I was the chair of TF on Data-Driven Evolutionary Optimization of Expensive Problems (2016-2020). 
+
+
+A data-driven personal websit\7======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
