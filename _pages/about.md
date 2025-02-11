@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received her B.C. and M.S. degrees in Computer Application Technology from Hohai University, Nanjing, Jiangsu, China, and Ph.D. in Mechanical Design and Theory from Taiyuan University of Science and Technology, Taiyuan, Shanxi, China, in 2011. From September 2014 to September 2016, I was a Postdoctoral Research Fellow in Department of Computer science, University of Surrey. Now I am a Professor in the School of Computer Science and Technology, Taiyuan University of Science and Technology. 
+I received my B.Sc. and M.Sc. degrees in Computer Application Technology from Hohai University, Nanjing, Jiangsu, China, and Ph.D. in Mechanical Design and Theory from Taiyuan University of Science and Technology, Taiyuan, Shanxi, China, in 2011. From September 2014 to September 2016, I was a Postdoctoral Research Fellow in Department of Computer science, University of Surrey, UK. Currently I am a Professor in the School of Computer Science and Technology, Taiyuan University of Science and Technology. 
 
 My areas of expertise include surrogate-assisted evolutionary optimization, machine learning, and their applications in real-world problems. 
 
