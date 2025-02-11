@@ -14,8 +14,8 @@ main:
   - title: "Professional Activities"
     url: /professionalactivities/    
     
-  - title: "Teaching Activities"
-    url: /teachingactivities/
+  #- title: "Teaching Activities"
+   # url: /teachingactivities/
         
   - title: "Academic Activities"
     url: /academicactivities/
