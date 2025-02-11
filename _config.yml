@@ -231,7 +231,9 @@ collections:
   researchactivities:
     output: true
     permalink: /:researchactivities/:path/
-
+  professionalactivities:
+    output: true
+    permalink: /:professionalactivities/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -306,7 +308,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-
+  # _professionalactivities
+  - scope:
+      path: ""
+      type: professionalactivities
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
