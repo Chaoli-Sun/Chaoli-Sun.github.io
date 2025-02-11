@@ -228,6 +228,9 @@ collections:
   researchoutputs:
     output: true
     permalink: /:researchoutputs/:path/
+  researchactivities:
+    output:true
+    permalink: /:researchactivities/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -272,6 +275,15 @@ defaults:
   - scope:
       path: ""
       type: researchoutputs
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _researchactivities
+  - scope:
+      path: ""
+      type: researchactivities
     values:
       layout: single
       author_profile: true
