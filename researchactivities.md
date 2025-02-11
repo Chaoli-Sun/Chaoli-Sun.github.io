@@ -2,13 +2,12 @@
 <ul>
   <p><h2>PhD Students:</h2></p>
   <ul>
-  <li>Shufen Qin, graduated at 2022</li>
-  <li>Hao Wang, graduated at 2023</li>
-  <li>Kaili Zhao</li>
-  <li>Xiaotong Liu</li>
-  <li>Jing Li</li>
-  <li>Pengyun Zhang</li>
-  <li>Asad Hayat</li>
+    <li><strong>2024:</strong>Pengyun Zhang, Asad Hayat</li>
+    <li><strong>2023:</strong>Jing Li</li>
+    <li><strong>2022:</strong>Xiaotong Liu</li>
+    <li><strong>2021:</strong>Kaili Zhao</li>
+    <li><strong>2020:</strong>Hao Wang</li>
+    <li><strong>2019:</strong>Shufen Qin</li>
   </ul>
   <p><h2>Postgraduate Students:</h2></p>
   <ul>
