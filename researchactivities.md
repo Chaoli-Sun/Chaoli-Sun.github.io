@@ -11,9 +11,9 @@
   </ul>
   <p><h2>Postgraduate Students:</h2></p>
   <ul>
-    <li><strong>2024: </strong>赵敬淇、谭钧午、王震、杨晓东</li>
-    <li><strong>2023: </strong>毕朝冉、张玮鑫、王永康、段建富、李云、张召、Inam Ullah Syed</li>
-    <li><strong>2022: </strong></li>
+    <li><strong>2024: </strong>Jingqi Zhao, Junwu Tan, Zhen Wang, Xiaodong Yang</li>
+    <li><strong>2023: </strong>Zhaoran Bi, Weixin Zhang, Yongkang Wang, Jianfu Duan, Yun Li, Zhao Zhang, Inam Ullah Syed</li>
+    <li><strong>2022: </strong>Xiaoge Li, Weiwei Xu, Shiwen Yan, Aolong Zhang, Yaqi Zhao</li>
     <li><strong>2021: </strong></li>
     <li><strong>2020: </strong></li>
     <li><strong>2019: </strong></li>
@@ -33,9 +33,9 @@
   </ul>
   <p><h2>Postgraduate Students:</h2></p>
   <ul>
-    <li><strong>2024: </strong>乔彦博、宋哲、孙慧洁、叶晴</li>
-    <li><strong>2023: </strong>郝泽楷、刘陌颜、李泳霖、成国梁</li>
-    <li><strong>2022: </strong></li>
+    <li><strong>2024: </strong>Yanbo Qiao, Zhe Song, Huijie Sun, Qing Ye</li>
+    <li><strong>2023: </strong>Zekai Hao, Moyan Liu, Yonglin Li, Guoliang Cheng</li>
+    <li><strong>2022: </strong>Lin Tang, Jianshang Wang, Yuanyuan Xie, Yanke Zhang, Ya Zhao</li>
     <li><strong>2021: </strong></li>
     <li><strong>2020: </strong></li>
     <li><strong>2019: </strong></li>
