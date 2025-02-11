@@ -234,6 +234,9 @@ collections:
   professionalactivities:
     output: true
     permalink: /:professionalactivities/:path/
+  academicactivities:
+    output: true
+    permalink: /:academicactivities/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -312,6 +315,15 @@ defaults:
   - scope:
       path: ""
       type: professionalactivities
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _academicactivities
+  - scope:
+      path: ""
+      type: academicactivities
     values:
       layout: single
       author_profile: true
