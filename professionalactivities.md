@@ -11,5 +11,6 @@
   <li>IEEE CIS Intelligent Systems Applications Technical Committee (ISATC), Chair, 2024.01 - 2025.12 </li>
   <li>CCF Distinguished Member, 2023.09 - </li>
   <li>IEEE Senior Member, 2024 - </li>
-  <li>CCF Taiyuan, 执委, 2024 - 2026</li>
+  <li>CCF 太原, 执委, 2024 - 2026</li>
+  <li>Technical co-chair, IEEE CEC, 2025</li>
 </ul>
