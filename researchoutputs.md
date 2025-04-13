@@ -9,7 +9,7 @@
 <div class="wordwrap">[30] Shufen Qin, Chaoli Sun, Qiqi Liu, Yaochu Jin, A Performance Indicator Based Infill Criterion for Expensive Multi-/Many-objective Optimization, IEEE Transactions on Evolutionary Computation, 2023, 27(4), 1085-1099. </div>
 <div class="wordwrap">[29] Hao Wang, Chaoli Sun, Gang Xie, Xiao-Zhi Gao, Farooq Akhtar, A performance approximation assisted expensive many-objective evolutionary algorithm, Information Sciences, 2023, 625, 20-35.</div>
 <div class="wordwrap">[28] 张国晨,刘鹏飞,孙超利,一种新环境选择策略的多模态多目标优化算法, 应用科学学报,2022,40(05):739-748.</div>
-<div class="wordwrap">[27] 张国晨,崔钧皓,王浩,孙超利,李春鹏,自适应模型选用辅助的多种群进化算法, 小型微型计算机系统，2022，录用.</div>
+<div class="wordwrap">[27] 张国晨,崔钧皓,王浩,孙超利,李春鹏,自适应模型选用辅助的多种群进化算法, 小型微型计算机系统，2024，45(5), 1083-1088.</div>
 <div class="wordwrap">[26] Hao Wang, Chaoli Sun, Haibo Yu, Xiaobo Li, A decomposition-based many-objective evolutionary algorithm with optional performance indicators, Complex & Intelligent Systems, 2022: 1-20.</div>
 <div class="wordwrap">[25] Mai Sun, Chaoli Sun, Xiaobo Li, Guochen Zhang, Farooq Akhtar, Surrogate Ensemble Assisted large-scale Expensive Optimization with Random Grouping, Information Sciences, 2022, 615, 226-237.</div>
 <div class="wordwrap">[24] 王浩，孙超利，张国晨，基于估值不确定度排序顺序均值采样的昂贵高维多目标进化算法, 控制与决策，2022，录用.</div>
