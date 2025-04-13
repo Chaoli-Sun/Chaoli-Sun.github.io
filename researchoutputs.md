@@ -3,10 +3,9 @@
 <div class="wordwrap">[36] 孙超利, 张澳龙, 刘晓彤，阙凌燕，赵志诚. 一种基于两阶段自适应搜索的云计算任务调度算法, 计算机应用研究, 录用, 2025.</div>
 <div class="wordwrap">[35] 谭瑛, 任新宇, 孙超利, 王思思. 两阶段填充采样的半监督昂贵多目标优化算法, 计算机应用，录用，2025.</div>
 <div class="wordwrap">[34] Zijian Jiang, Chaoli Sun, Xiaotong Liu, Hui Shi, Sisi Wang. A semi-supervised learning technique assisted multi-objective evolutionary algorithm for computationally expensive problems, Complex & Intelligent Systems, 2025, 11: 128. </div>
-
 <div class="wordwrap">[33] Chaoli Sun, Juan Shen, Xiaohong Zhang, Hui Shi and Yang Wang, Degradation modeling and remaining life prediction of multi-state long-life systems under andom environmental influences, Measurement Science and Technology, 2024, accepted. (https://doi.org/10.1088/1361-6501/ad5610) </div>
-<div class="wordwrap">[32] Chaoli Sun, Xiaojun Wang, Junwei Ma, Gang Xie, A Composition–decomposition Based Federated Learning, Complex & Intelligent Systems, 2023, accepted. (https://doi.org/10.1007/s40747-023-01198-x)</div>
-<div class="wordwrap">[31] 刘晓彤，孙超利，王浩，谢刚，两阶段模型协同搜索的昂贵多目标进化优化，控制理论与应用, 2023, 录用.</div>
+<div class="wordwrap">[32] Chaoli Sun, Xiaojun Wang, Junwei Ma, Gang Xie, A Composition–decomposition Based Federated Learning, Complex & Intelligent Systems, 2024, 10, 1027–1042. (https://doi.org/10.1007/s40747-023-01198-x)</div>
+<div class="wordwrap">[31] 刘晓彤，孙超利，王浩，谢刚，两阶段模型协同搜索的昂贵多目标进化优化，控制理论与应用, 2024, 41(9), 1676-1684.</div>
 <div class="wordwrap">[30] Shufen Qin, Chaoli Sun, Qiqi Liu, Yaochu Jin, A Performance Indicator Based Infill Criterion for Expensive Multi-/Many-objective Optimization, IEEE Transactions on Evolutionary Computation, 2023, 27(4), 1085-1099. </div>
 <div class="wordwrap">[29] Hao Wang, Chaoli Sun, Gang Xie, Xiao-Zhi Gao, Farooq Akhtar, A performance approximation assisted expensive many-objective evolutionary algorithm, Information Sciences, 2023, 625, 20-35.</div>
 <div class="wordwrap">[28] 张国晨,刘鹏飞,孙超利,一种新环境选择策略的多模态多目标优化算法, 应用科学学报,2022,40(05):739-748.</div>
