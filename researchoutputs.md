@@ -1,7 +1,8 @@
 <p><h1>Journal Papers</h1></p>
-<div class="wordwrap">[36] Kaili Zhao, Xilu Wang, Chaoli Sun, Yaochu Jin. Efficient Large-scale Expensive Optimization via Surrogate-assisted Sub-problem Selection, IEEE Transactions on Evolutionary Computation, accepted, 2025.</div>
+<div class="wordwrap">[37] Kaili Zhao, Xilu Wang, Chaoli Sun, Yaochu Jin. Efficient Large-scale Expensive Optimization via Surrogate-assisted Sub-problem Selection, IEEE Transactions on Evolutionary Computation, accepted, 2025.</div>
+<div class="wordwrap">[36] 孙超利, 张澳龙, 刘晓彤，阙凌燕，赵志诚. 一种基于两阶段自适应搜索的云计算任务调度算法, 计算机应用研究, 录用, 2025.</div>
 <div class="wordwrap">[35] 谭瑛, 任新宇, 孙超利, 王思思. 两阶段填充采样的半监督昂贵多目标优化算法, 计算机应用，录用，2025.</div>
-<div class="wordwrap">[34] Zijian Jiang, Chaoli Sun, Xiaotong Liu, Hui Shi, Sisi Wang. A semi-supervised learning technique assisted multi-objective evolutionary algorithm for computationally expensive problems, Complex & Intelligent Systems, 2024.</div>
+<div class="wordwrap">[34] Zijian Jiang, Chaoli Sun, Xiaotong Liu, Hui Shi, Sisi Wang. A semi-supervised learning technique assisted multi-objective evolutionary algorithm for computationally expensive problems, Complex & Intelligent Systems, 2025, 11: 128. </div>
 
 <div class="wordwrap">[33] Chaoli Sun, Juan Shen, Xiaohong Zhang, Hui Shi and Yang Wang, Degradation modeling and remaining life prediction of multi-state long-life systems under andom environmental influences, Measurement Science and Technology, 2024, accepted. (https://doi.org/10.1088/1361-6501/ad5610) </div>
 <div class="wordwrap">[32] Chaoli Sun, Xiaojun Wang, Junwei Ma, Gang Xie, A Composition–decomposition Based Federated Learning, Complex & Intelligent Systems, 2023, accepted. (https://doi.org/10.1007/s40747-023-01198-x)</div>
