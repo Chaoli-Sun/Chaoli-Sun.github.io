@@ -1,6 +1,7 @@
 <p><h1>Chaired Projects</h1></p>
 <ul>
   <li><div class="justified-text">数据驱动的进化算法在昂贵大规模多目标优化问题中的应用研究，国家自然科学基金面上项目, 2024.01 - 2027.12</div></li>
+  <li><div class="justified-text">新一代电力机车牵引系统核心装备研制，山西省科技重大专项计划“揭榜挂帅”项目子课题, 2024.01 - 2026.12</div></li>
   <li><div class="wordwrap">新一代物联网设备接入平台关键技术研究，山西省重点研发计划项目, 2022.01-2025.01</div></li>
   <li><div class="wordwrap">数据驱动的高维复杂进化优化方法研究，国家自然科学基金面上项目, 2019.01 -2022.12</div></li>
   <li><div class="justified-text">代理模型辅助的优化算法在复杂多目标优化问题中的应用研究，山西省自然科学基金, 2018.12 - 2020.12</div></li>
@@ -12,6 +13,7 @@
 <ul>
   <p><h2>PhD Students:</h2></p>
   <ul>
+    <li><strong>2025: </strong>Zhao Zhang</li>
     <li><strong>2024: </strong>Pengyun Zhang, Asad Hayat</li>
     <li><strong>2023: </strong>Jing Li</li>
     <li><strong>2022: </strong>Xiaotong Liu</li>
@@ -21,6 +23,7 @@
   </ul>
   <p><h2>Postgraduate Students:</h2></p>
   <ul>
+    <li><strong>2025: </strong>Yanwei Duan, Guokai Li, Dongyao Ma, Chao Tang, Yunuo Wang</li>
     <li><strong>2024: </strong>Jingqi Zhao, Junwu Tan, Zhen Wang, Xiaodong Yang</li>
     <li><strong>2023: </strong>Zhaoran Bi, Weixin Zhang, Yongkang Wang, Jianfu Duan, Yun Li, Zhao Zhang, Inam Ullah Syed</li>
     <li><strong>2022: </strong>Xiaoge Li, Weiwei Xu, Shiwen Yan, Aolong Zhang, Yaqi Zhao</li>
@@ -36,6 +39,7 @@
   </ul>
   <p><h2>Postgraduate Students:</h2></p>
   <ul>
+    <li><strong>2025: </strong>Kaixin Li, Guomin Ren, Ting Wang</li>
     <li><strong>2024: </strong>Yanbo Qiao, Zhe Song, Huijie Sun, Qing Ye</li>
     <li><strong>2023: </strong>Zekai Hao, Moyan Liu, Yonglin Li, Guoliang Cheng</li>
     <li><strong>2022: </strong>Lin Tang, Jianshang Wang, Yuanyuan Xie, Yanke Zhang, Ya Zhao</li>
