@@ -14,5 +14,3 @@ My areas of expertise include surrogate-assisted evolutionary optimization, mach
 I am an Associate Editor of the IEEE Transactions on Evolutionary Computation, an Associate Editor of the IEEE Transactions on Artificial Intelligence, an Associate Editor of the Engineering Application of Artificial Intelligence, and an Associate Editor of the Soft Computing Journal. I am also an Editorial Board Member of Complex and Intelligence Systems and an Editorial Board Member of Memetic Computing. 
 
 I serve as the chair of the Intelligent Systems Application Technical Committee of IEEE CIS (2024-), and a member of the Evolutionary Computation Technical Committee of IEEE CIS. I was the chair of TF on Data-Driven Evolutionary Optimization of Expensive Problems (2016-2020). 
-
-99999
