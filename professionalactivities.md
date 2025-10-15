@@ -8,6 +8,7 @@
 </ul>
 <p><h1>Event Organization and Mangement</h1></p>
 <ul>
+  <li>自动化学会计算智能及其应用专委会, 副主任, 2025.10 - 2030.09 </li>
   <li>IEEE CIS Intelligent Systems Applications Technical Committee (ISATC), Chair, 2024.01 - 2025.12 </li>
   <li>CCF Distinguished Member, 2023.09 - </li>
   <li>IEEE Senior Member, 2024 - </li>
