@@ -1,5 +1,10 @@
 <p><h1>Journal Papers</h1></p>
-<div class="wordwrap">[37] Kaili Zhao, Xilu Wang, Chaoli Sun, Yaochu Jin. Efficient Large-scale Expensive Optimization via Surrogate-assisted Sub-problem Selection, IEEE Transactions on Evolutionary Computation, accepted, 2025.</div>
+<div class="wordwrap">[42] Guochen Zhang, Lu Wang, Chaoli Sun, Pengyun Zhang, Peiwei Tsai, Expensive Multi-Objective Optimization with Adaptive Contribution Sampling and Enhanced Search, Complex & Intelligent Systems, accepted, 2025.</div>
+<div class="wordwrap">[41] Shufen Qin, Chaoli Sun, Expensive Multi-Objective Optimization with Adaptive Contribution Sampling and Enhanced Search, IEEE Transactions on Systems, Man, and Cybernetics, accepted, 2025.</div>
+<div class="wordwrap">[40] Kaili Zhao, Xilu Wang, Chaoli Sun, Wazir Zada Khan. Surrogate-Assisted Large-Scale Expensive Optimization with Bottleneck Dimension Mutation, Complex & Intelligent Systems, accepted, 2025.</div>
+<div class="wordwrap">[39] Xiaotong Liu, Chaoli Sun, Yaochu Jin, Asad Hayat. Expensive Many-objective Evolutionary Optimization with a Self-adaptive Surrogate Model, IEEE Transactions on Emerging Topics in Computational Intelligence, accepted, 2025.</div>
+<div class="wordwrap">[38] Kaili Zhao, Xilu Wang, Chaoli Sun, Yaochu Jin. A Large-scale Expensive Optimization Algorithm with a Multi-view Synthetic Sampling, IEEE Transactions on Evolutionary Computation, accepted, 2025.</div>
+<div class="wordwrap">[37] Kaili Zhao, Xilu Wang, Chaoli Sun, Yaochu Jin. Efficient Large-scale Expensive Optimization via Surrogate-assisted Sub-problem Selection, IEEE Transactions on Evolutionary Computation, 2025, 29(5), 2145-2157.</div>
 <div class="wordwrap">[36] 孙超利, 张澳龙, 刘晓彤，阙凌燕，赵志诚. 一种基于两阶段自适应搜索的云计算任务调度算法, 计算机应用研究, 录用, 2025.</div>
 <div class="wordwrap">[35] 谭瑛, 任新宇, 孙超利, 王思思. 两阶段填充采样的半监督昂贵多目标优化算法, 计算机应用，录用，2025.</div>
 <div class="wordwrap">[34] Zijian Jiang, Chaoli Sun, Xiaotong Liu, Hui Shi, Sisi Wang. A semi-supervised learning technique assisted multi-objective evolutionary algorithm for computationally expensive problems, Complex & Intelligent Systems, 2025, 11: 128. </div>
