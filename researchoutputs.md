@@ -1,4 +1,5 @@
 <p><h1>Journal Papers</h1></p>
+<div class="wordwrap">[43] Shufen Qin, Chaoli Sun, Surrogate-Assisted Many-Objective Optimization with Estimate Error Preference, IEEE Transactions on Systems, Man, and Cybernetics, accepted, 2025.</div>
 <div class="wordwrap">[42] Guochen Zhang, Lu Wang, Chaoli Sun, Pengyun Zhang, Peiwei Tsai, Expensive Multi-Objective Optimization with Adaptive Contribution Sampling and Enhanced Search, Complex & Intelligent Systems, accepted, 2025.</div>
 <div class="wordwrap">[41] Shufen Qin, Chaoli Sun, Expensive Multi-Objective Optimization with Adaptive Contribution Sampling and Enhanced Search, IEEE Transactions on Systems, Man, and Cybernetics, accepted, 2025.</div>
 <div class="wordwrap">[40] Kaili Zhao, Xilu Wang, Chaoli Sun, Wazir Zada Khan. Surrogate-Assisted Large-Scale Expensive Optimization with Bottleneck Dimension Mutation, Complex & Intelligent Systems, accepted, 2025.</div>
