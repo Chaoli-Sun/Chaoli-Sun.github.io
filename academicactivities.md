@@ -6,6 +6,6 @@
 <p><h1>Special Sessions</h1></p>
 <ul>
   <li><a href="https://chaoli-sun.github.io/files/Call For Papers-CEC 2025.pdf">Data-Driven Evolutionary Optimization of Computationally Expensive Problems</a>, IEEE CEC, 2025.6.8-6.12, Hangzhou, China</li>
-  <li><a href="https://chaoli-sun.github.io/files/Call For Papers-CEC 2024.pdf">Data-Driven Evolutionary Optimization of Computationally Expensive Problems，IEEE WCCI, 2024.6.30-7.5, Yokohama, Japan</li>
-  <li><a href="https://chaoli-sun.github.io/files/Call For Papers-CEC 2023.pdf">Data-Driven Evolutionary Optimization of Computationally Expensive Problems，IEEE CEC, 2023.7.1-7.5, Chicago USA</li>
+  <li><a href="https://chaoli-sun.github.io/files/Call For Papers-CEC 2024.pdf">Data-Driven Evolutionary Optimization of Computationally Expensive Problems</a>，IEEE WCCI, 2024.6.30-7.5, Yokohama, Japan</li>
+  <li><a href="https://chaoli-sun.github.io/files/Call For Papers-CEC 2023.pdf">Data-Driven Evolutionary Optimization of Computationally Expensive Problems</a>，IEEE CEC, 2023.7.1-7.5, Chicago USA</li>
 </ul>
