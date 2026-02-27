@@ -1,4 +1,6 @@
 <p><h1>Journal Papers</h1></p>
+<div class="wordwrap">[45] 孙超利，段建富，李静，基于跨模态双门融合与重排序的行人重识别, 计算机科学，录用，2026. </div>
+<div class="wordwrap">[44] Zhaoran Bi, Chaoli Sun, Pei-Wei TSai, Guanguo Hua and Lin Lian, A diffusion model with adaptive dilated convolution and timestep-aware attention for fault signal generation, Measurement Science and Technology, 37(7), 2026. </div>
 <div class="wordwrap">[43] Shufen Qin, Chaoli Sun, Surrogate-Assisted Many-Objective Optimization with Estimate Error Preference, IEEE Transactions on Systems, Man, and Cybernetics, accepted, 2025.</div>
 <div class="wordwrap">[42] Guochen Zhang, Lu Wang, Chaoli Sun, Pengyun Zhang, Peiwei Tsai, Expensive Multi-Objective Optimization with Adaptive Contribution Sampling and Enhanced Search, Complex & Intelligent Systems, accepted, 2025.</div>
 <div class="wordwrap">[41] Shufen Qin, Chaoli Sun, Expensive Multi-Objective Optimization with Adaptive Contribution Sampling and Enhanced Search, IEEE Transactions on Systems, Man, and Cybernetics, accepted, 2025.</div>
